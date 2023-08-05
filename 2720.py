@@ -1,5 +1,7 @@
 change = [25, 10, 5, 1]
 
+# Greedy - coin change algorithm
+
 # 첫번째 for 문
 # test case 수
 
