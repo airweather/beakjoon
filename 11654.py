@@ -1,3 +1,1 @@
 print(ord(input()))
-
-# test
