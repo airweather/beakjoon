@@ -15,3 +15,9 @@ for i in range(num - 1):
         else:
             print("*", end="")
     print()
+
+# for i in range(num):
+#     print(" " * (num - 1 - i) + "*" * (num + i))
+
+# for i in range(num - 1):
+#     print(" " * (i + 1) + "*" * ((num - 1) * 2 - i))
