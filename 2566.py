@@ -5,7 +5,7 @@ for _ in range(9):
     text = line.split()
 
     number = [int(i) for i in text]
-    numList = numList + number
+    numList += number
 
 maxNum = max(numList)
 
