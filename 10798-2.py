@@ -1,7 +1,4 @@
-text_list = []
-
-for i in range(5):
-    text_list.append(list(input()))
+text_list = [list(input()) for _ in range(5)]
     
 max_length = max(len(sublist) for sublist in text_list)
 
